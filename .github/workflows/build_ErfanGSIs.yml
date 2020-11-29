@@ -5,8 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://doc-08-8c-docs.googleusercontent.com/docs/securesc/ih4f651hpellbqtffun0eh64u395qvs9/8hr7703mldgq6578a1v1iob7577cbvgl/1606650525000/05847928325444896811/12873326971018064583Z/1h-vwHC-U55KSn9RyYiUOGMKDyfXEdc-K?e=download&nonce=06gm01qrifno8&user=12873326971018064583Z&hash=bpn80hi4qkqsma17ict92
-
+  ROM_URL:https://github.com/ypirnaz9/ErfanGSIs-VelanGSIs.git
   ROM_NAME: PixelExperince
   TZ: Asia/Kolkata
   MIR: wet
