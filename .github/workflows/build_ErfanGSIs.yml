@@ -26,7 +26,7 @@ jobs:
             sudo -E apt-get -qq install git openjdk-8-jdk wget
 
        
-       - name: Clone ErfanGSI Source Code
+       - name: Clone ErfanGSI Source Code https://github.com/ypirnaz9/ErfanGSIs-VelanGSIs.git  ErfanGSIs
          run: git clone --recurse-submodules https://github.com/ypirnaz9/ErfanGSIs-VelanGSIs.git
        
        - name: Setting up ErfanGSI requirements
